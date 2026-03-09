@@ -215,49 +215,49 @@ Saving the model allows it to be reused for deployment or further testing.
 
 ## 1 Dataset Structure
 
-![Dataset Structure](csc-lw3 screenshots/dataset-structure.png)
+![Dataset Structure](csc-lw3_screenshots/dataset-structure.png)
 
 ---
 
 ## 2 Google Drive Mounted
 
-![Drive Mounted](csc-lw3 screenshots/drive-mounted.png)
+![Drive Mounted](csc-lw3_screenshots/drive-mounted.png)
 
 ---
 
 ## 3 Dataset Loaded in TensorFlow
 
-![Dataset Loaded](csc-lw3 screenshots/dataset-loaded.png)
+![Dataset Loaded](csc-lw3_screenshots/dataset-loaded.png)
 
 ---
 
 ## 4 Class Names Output
 
-![Class Names](csc-lw3 screenshots/class-names.png)
+![Class Names](csc-lw3_screenshots/class-names.png)
 
 ---
 
 ## 5 CNN Model Architecture
 
-![Model Architecture](csc-lw3 screenshots/model-architecture.png)
+![Model Architecture](csc-lw3_screenshots/model-architecture.png)
 
 ---
 
 ## 6 Model Training Process
 
-![Training Process](csc-lw3 screenshots/training-process.png)
+![Training Process](csc-lw3_screenshots/training-process.png)
 
 ---
 
 ## 7 Validation Accuracy Result
 
-![Validation Accuracy](csc-lw3 screenshots/validation-accuracy.png)
+![Validation Accuracy](csc-lw3_screenshots/validation-accuracy.png)
 
 ---
 
 ## 8 Prediction Test Result
 
-![Prediction Test](csc-lw3 screenshots/prediction-test.png)
+![Prediction Test](csc-lw3_screenshots/prediction-test.png)
 
 ---
 
