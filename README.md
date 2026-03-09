@@ -261,6 +261,11 @@ Saving the model allows it to be reused for deployment or further testing.
 
 ---
 
+## 9 Save the Model
+
+![Save the Modelt](csc-lw3_screenshots/model-saved.png)
+
+---
 # 🧠 Reflection Questions
 
 ## 1. How did you organize your dataset in Google Drive?
