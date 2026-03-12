@@ -739,9 +739,7 @@ Plant-Species-CNN-Classifier/
 
 ---
 
-## 👤 Author
-
-**Laboratory Work 3 & Activity 3A**
-Course: Computer Science — Deep Learning
-Environment: Google Colab + Google Drive
-Framework: TensorFlow / Keras
+## Gdrive Link: 
+https://drive.google.com/drive/folders/1vMhoPqhLJ50_jIvbbQeHKf9lOqxG8X8h?usp=drive_link  - image dataset
+https://drive.google.com/drive/folders/1Y64q3JhIbWG-rc8lzgnmkBbXOxUj_T8i?usp=drive_link  - lwr3 ss
+https://drive.google.com/drive/folders/1QY9ILXVrv7SFHBIL28ZQX0B7ZVo7SSGd?usp=drive_link  - lwr3a ss
